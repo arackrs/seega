@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1171,7): warning C4101: 'jugador': variable local sin referencia
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1351,2): warning C4551: la llamada a la función no tiene lista de argumentos
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1303,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1305,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1315,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1341,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\main.cpp(1351,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generando código...
+  main.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project.vcxproj -> C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\x64\Debug\Project.exe

@@ -1,0 +1,2 @@
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+C:\Users\arana\OneDrive - Universidad Peruana de Ciencias\CICLO'01\TF\Seega\Project\x64\Debug\Project.vcxproj.SuggestedBindingRedirects.cache
