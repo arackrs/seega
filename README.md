@@ -1,3 +1,3 @@
 # Seega
 ## First Cycle
-Trabajo Final de Programacón 1
+Trabajo Final de Programación 1
